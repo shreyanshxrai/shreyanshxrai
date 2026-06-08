@@ -31,25 +31,22 @@ I enjoy building scalable web applications and backend systems using modern tech
 ---
 
 ## 📌 Featured Projects
+### ✍️ Blog Platform
+A full-stack blogging platform where users can create blog posts.
+
+**Tech:** React , Hono , Ts , postgreSQL
+---
 
 ### 💼 Personal Portfolio
 A modern portfolio website showcasing my projects, skills and development journey.
 
 **Tech:** Next.js, TypeScript, Tailwind CSS
-
 ---
 
 ### 💳 Paytm Clone
-A full-stack payment application with authentication, account management and money transfer functionality.
+A full-stack payment application with authentication, money transfer functionality.
 
 **Tech:** React, Node.js, Express.js, MongoDB
-
----
-
-### ✍️ Blog Platform
-A full-stack blogging platform where users can create, edit and manage blog posts.
-
-**Tech:** Next.js, Node.js, MongoDB
 ---
 
 ## 📫 Connect With Me
