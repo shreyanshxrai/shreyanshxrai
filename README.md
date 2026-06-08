@@ -1,4 +1,62 @@
-## Hi there 👋
+## Hi 👋, I'm Shreyansh Rai
+
+### IT Undergraduate | Full Stack Developer | Backend Enthusiast
+
+I enjoy building scalable web applications and backend systems using modern technologies.
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech IT Student
+- 💻 Full Stack Developer
+- 🌱 Currently learning:
+      CI/CD Pipelines
+      Docker
+      Redis
+      Pub/Sub Systems
+      Message Queues
+      WebSockets
+      Advanced Backend Communication Patterns 
+- 🎯 Looking for Internship Opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,mongodb,mysql,git,github,postman,vscode&perline=6" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 💼 Personal Portfolio
+A modern portfolio website showcasing my projects, skills and development journey.
+
+**Tech:** Next.js, TypeScript, Tailwind CSS
+
+---
+
+### 💳 Paytm Clone
+A full-stack payment application with authentication, account management and money transfer functionality.
+
+**Tech:** React, Node.js, Express.js, MongoDB
+
+---
+
+### ✍️ Blog Platform
+A full-stack blogging platform where users can create, edit and manage blog posts.
+
+**Tech:** Next.js, Node.js, MongoDB
+---
+
+## 📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/shreyanshxrai/
+Email: shreyanshtalks@gmail.com 
+Portfolio: 
 
 <!--
 **shreyanshxrai/shreyanshxrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
