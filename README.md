@@ -55,12 +55,12 @@ A full-stack payment application with authentication, money transfer functionali
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
-  <a href="mailto:shreyanshtalks@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+ <a href="mailto:shreyanshtalks@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 ---
-Portfolio: 
+# Portfolio: 
 
 <!--
 **shreyanshxrai/shreyanshxrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
