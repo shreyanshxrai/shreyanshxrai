@@ -25,7 +25,7 @@ I enjoy building scalable web applications and backend systems using modern tech
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,mongodb,mysql,git,github,postman,hono,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,mongodb,mysql,git,github,postman,Hono,vscode&perline=6" />
 </p>
 
 ---
