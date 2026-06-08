@@ -25,7 +25,7 @@ I enjoy building scalable web applications and backend systems using modern tech
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,mongodb,mysql,git,github,postman,Hono,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,mongodb,mysql,git,github,postman,vscode&perline=6" />
 </p>
 
 ---
@@ -55,7 +55,7 @@ A full-stack blogging platform where users can create, edit and manage blog post
 ## 📫 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/shreyanshxrai/
-Email: shreyanshtalks@gmail.com 
+<div><img src="https://skillicons.dev/icons?i=gmail"/>: shreyanshtalks@gmail.com </div>
 Portfolio: 
 
 <!--
