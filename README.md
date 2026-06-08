@@ -55,14 +55,11 @@ A full-stack payment application with authentication, money transfer functionali
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
-  <a href="https://github.com/your-github">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:shreyanshtalks@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
+---
 Portfolio: 
 
 <!--
