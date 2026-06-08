@@ -50,9 +50,19 @@ A full-stack payment application with authentication, money transfer functionali
 ---
 
 ## 📫 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/shreyanshxrai/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 
-<div class = "p-2"><img src="https://skillicons.dev/icons?i=linkedin"/>: https://www.linkedin.com/in/shreyanshxrai/ </div>
-<div class = "p-2"><img src="https://skillicons.dev/icons?i=gmail"/>: shreyanshtalks@gmail.com </div>
+  <a href="https://github.com/your-github">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 Portfolio: 
 
 <!--
