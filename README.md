@@ -54,8 +54,8 @@ A full-stack blogging platform where users can create, edit and manage blog post
 
 ## 📫 Connect With Me
 
-<div><img src="https://skillicons.dev/icons?i=linkedin"/>: https://www.linkedin.com/in/shreyanshxrai/ </div>
-<div><img src="https://skillicons.dev/icons?i=gmail"/>: shreyanshtalks@gmail.com </div>
+<div class = "p-2"><img src="https://skillicons.dev/icons?i=linkedin"/>: https://www.linkedin.com/in/shreyanshxrai/ </div>
+<div class = "p-2"><img src="https://skillicons.dev/icons?i=gmail"/>: shreyanshtalks@gmail.com </div>
 Portfolio: 
 
 <!--
