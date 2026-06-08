@@ -55,7 +55,8 @@ A full-stack payment application with authentication, money transfer functionali
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
-📧 shreyanshtalks@gmail.com
+📧 : shreyanshtalks@gmail.com
+
 ---
 
 # Portfolio: 
