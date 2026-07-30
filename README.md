@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Shreyansh%20Rai&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20AI%20Engineer%20in%20the%20making&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Shreyansh%20Rai&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend Engineer%20||%20AI%20Engineer&descAlignY=58&descSize=20" width="100%" alt="header banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=650&lines=Building+PayGuard+%E2%80%94+fraud-aware+P2P+wallet;Backend+%2B+AI+Engineering+%7C+Next.js+%2F+Node+%2F+Postgres;Shipping+first%2C+studying+theory+second;Open+to+Backend+%2F+AI+Internships+2026" alt="Typing SVG" />
 
@@ -33,57 +33,7 @@
 </td>
 <td width="45%" align="center">
 
-```
-::::................................................................
-::::..................................................................
-::....................................................................
-:.....................................................................
-......................................................................
-......................................................................
-...........................-=++*##%#%#*+=:............................
-........................=#%%@@@@@@@@@@@@@@%+-.........................
-......................-#@@@@@@@@@@@@@@@@@@@@@*:.......................
-.....................=@@@@@%%@@@@@@@@@@@@@@@@@%-......................
-....................=@@@@@@@@@@%##*######%@@@@@#:.....................
-....................+@@@@%##**++====+++++*%@@@@@*:....................
-....................+@@%*++===---=====+++*%@@@@@@=....................
-....................+@%*++==------=====+++#@@@@@@+....................
-....................-@@*++=--------===++***#@@@@@=....................
-.....................+@***++=---=++#######**#@@@@-....................
-......................#%#%%%%#*++*#%#%%##****@@#*+:...................
-......................-##%*%%##+=+**+**+++++*#%*+*-...................
-......................:*****++*=-++=------=+*##+++-.................::
-.......................++==--=+--=++=----==+*#%***:................:::
-::::...................++==-=+*++****+===++**##++-................::::
-::::::::...............=*++==+******+**+++***#*:.............:::::::::
-::::::::::.............:-*++*##*++++*##+++**#%+...........::::::::::::
-::::::::::...............=*+****===++*+++**###*:.....:::::::::::::::::
-:::::::::::...............=**++***+++++***###*#%-...::::::::::::::::::
-:::::::::::::..::::........-**++====++*##%%#**#@%+-:...:::::::::::::::
-::::::::::::.:::::::::....:-####****#%%%%#*++*%@@@%%*=-:..::::::::::::
-:::::::::::::::::::...::=*#@%**#%%%####***+++#%@@@@@@%%#*=-:::::::::::
-:::::::::::::::::..:-+*%@%%@@#**##*******+++*%%@%%%@%%%%%%%#+=::::::::
-::::::::::::::..:=*#%%%@%#%@@%#*###*********%%%@%%%@%%%%%%%%%%#*=-::::
-::::::::::::.:=*#%%%%@%@%#%@@%######*******%%%%@%%%%%%%%%%%%%%%%%%*=-:
-::::::::::::=#%%%%%%@%%%##%@@%**#######***#%%%%%%%%%%%%%%%%%%%%%%%%%#*
-:::::::::::*%%%%%%%@@%%#%@%@@@#++*******+*%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-::::::::::*%%%%%%%@@%%%@@@@%@@%#+=+==+++#@@@@%%%%%%%%%%%%%%%%%%%%%%%%%
-:::::::::*%%%%%%%@@%%%@@@@@@@%%%%*===+#%@@@@@@@@%%@%%%%%%%%%%%%%%%%%%%
-::::::::-%%%%%%%@@%%%%%%%%@@@@@%%%#++%@@@@@@@@@@@@@%%%%%%%%%@@%%%%%%%@
-::::::::+%%%%%%@@%%%%%%%%%%%%%@@@@@%%@@@@@@%%%%%%%%%%%%%%%%%@%%%%@@%%@
-::::::::#%%%%%@@%%%%%%%%%%%%%%%%%%@%@@@@%%%%%%%%%%%%%%%%%%%@@%%%@@%%@%
-:::::::-%%%%%%%%%%%%%%%%%%%%%%%%%@@%%%@%%%%%%%%%%%%%%%@@%%%@%%%@@%%%@%
-:::::::=@%@@@@%%%%%%%%%%%%%%%%%%@@%%%%@%%%%%%%%%%%%%%%%@%%@@%%@@%%%@@%
----:::::#@@@@@@%%%%%%%%%%%%%%%%%@%%%%%%%%%%%%%%%%%%%%%%@@%@@%@@%%@%@%%
-----::::#@@@@@@%%%%%%%%%%%%%%%%@@%%%%%%%%%%%%%%%%%%%%%%@@%@@@@%@@%@@%@
------::-#%%@@@@%%%%%@%%%%%%%%%%@@%%%%%%%%%%%%%%%%%%%%@%@@%@@@@@@@@@@@@
-------:-%%%%%@@@@@%@%%%%%%%%%%%@@%%%%%%%%%%%%%%%%%%%%@@@@@@@@@@@@@@%%%
-------:+%%%%%@@@@@@@%%%%%%%%%%@@@%*%@%%%%%%%%%%%%%%%%@@@@@@@@@@@%%%%%@
-------:*%%%%%@@@@@@%@@@@@@%%%%@@@%%%@%%%%%%%%%%%%%%%@@@@@@@@%%%%@@%@@@
--------#%%%%%@@@@@@@@@@@@%%%%%@@%%%%%%%%%%%%%%%%%%%@@@@@@@@@@@%%%%@@@@
------:+@%%%%%@@@@@@@@@@%%%%%%@@@%%%%%%%%%%%%%%%%@@@@@@@@@@@@@%%%%@@@@@
------=%%%%%%@@@@@@@@@%%%%%@@@@@@@%%@%%@%%%%%@%@@@@@@@@@@@@@@%%%%@@@@@%
-```
+<img src="./assets/ascii-typing.svg" width="260" alt="ASCII portrait, typed line by line"/>
 
 </td>
 </tr>
@@ -110,7 +60,7 @@
 
 **Languages & Runtime**
 <br/>
-<img src="https://skillicons.dev/icons?i=ts,js,cpp,python" />
+<img src="https://skillicons.dev/icons?i=ts,js,python" />
 
 **Frontend**
 <br/>
@@ -122,7 +72,7 @@
 
 **Data & Infra**
 <br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,githubactions" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker" />
 
 **AI / Tooling**
 <br/>
@@ -135,17 +85,6 @@
 ---
 
 ### 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://shreyanshraiportfolio.vercel.app/">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shreyansh-rai&repo=paytm-clone&theme=tokyonight&hide_border=true" width="48%"/>
-</a>
-<a href="https://shreyanshraiportfolio.vercel.app/">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shreyansh-rai&repo=blog-platform&theme=tokyonight&hide_border=true" width="48%"/>
-</a>
-
-</div>
 
 | Project              | Description                                                  | Stack                                  |
 | -------------------- | ------------------------------------------------------------ | -------------------------------------- |
@@ -170,28 +109,13 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shreyansh-rai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyansh-rai&theme=tokyonight&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh-rai&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-
-</div>
-
----
-
 ### 🎯 Roadmap Snapshot
 
 ```
 [✅] Full-stack fundamentals (React, Node, Express, Mongo)
 [🔄] PayGuard — fraud-aware P2P wallet (in progress)
-[⏭] ClaimGuard — multimodal refund fraud detection
-[⏭] DSA — Neetcode 150 (Python) for winter internship screens
+[⏭] DSA — Neetcode 250 (Python)
 [⏭] Backend AI stack — RAG, pgvector, LangGraph, FastAPI
-[⏭] Open Source — Open Healthcare Network → GSoC 2027
 ```
 
 ---
@@ -200,7 +124,7 @@
 
 ### 📬 Let's Connect
 
-📧 **shreyanshtalks@gmail.com** &nbsp;|&nbsp; 🌐 **[Portfolio](https://shreyanshraiportfolio.vercel.app/)**
+📧 **shreyanshtalks@gmail.com** &nbsp;|&nbsp; 🌐 **[Portfolio](https://shreyanshraiportfolio.vercel.app/)**&nbsp;|&nbsp;IN **[Linkedin](https://www.linkedin.com/in/shreyanshxrai/)**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer" width="100%"/>
 
