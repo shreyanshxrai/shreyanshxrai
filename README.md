@@ -33,7 +33,8 @@ I enjoy building scalable web applications and backend systems using modern tech
 ## 📌 Featured Projects
 
 ### 💳 PayGaurd AI-powered payment app
-A full-stack Payment App which detects Scam/Frauds using AI .
+A full-stack Payment App which detects Scam/Frauds using AI.
+
 **Tech:** Next.Js , Express , Typescript , postgreSQL , TurboRepo
 ---
 
