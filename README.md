@@ -18,14 +18,19 @@
 
 🎓 &nbsp;**B.Tech IT** Undergraduate · 2024–2028 · GGSIPU, Delhi
 &nbsp;
+
 🧠 &nbsp;Focused on **Backend & AI Engineering**
 &nbsp;
+
 🏗️ &nbsp;Currently building **PayGuard** — a P2P wallet with pre-transaction fraud detection
 &nbsp;
+
 🌱 &nbsp;Leveling up in Docker · Redis Pub/Sub · Message Queues · WebSockets · RAG · LangGraph · pgvector
 &nbsp;
+
 🎯 &nbsp;Open to **Backend / AI-integration internships** (remote-friendly)
 &nbsp;
+
 💭 &nbsp;_"Ship the project, then chase the theory."_
 
 </td>
