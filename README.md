@@ -79,7 +79,6 @@
 
 **AI / Tooling**
 <br/>
-<img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
